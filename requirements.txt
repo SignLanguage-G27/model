@@ -1,6 +1,5 @@
-
 fastapi
-uvicorn
 tensorflow
-opencv-python-headless
 numpy
+opencv-python
+gunicorn
